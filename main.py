@@ -1,2 +1,1 @@
-# commit practice
-# commit practice 2
+# 아이돌
